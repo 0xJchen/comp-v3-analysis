@@ -1,0 +1,217 @@
+Market Monitor
+机器人
+ — 2023/01/24 08:54
+TX 📥 $5 of WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 09:02
+TX 📤 $3 of WETH Withdraw by 0xaEB2
+Market Monitor
+机器人
+ — 2023/01/24 12:06
+TX 🐳📥 $1,489 of WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 12:36
+TX 📥 $17 of WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 12:51
+TX 📥 $100 of WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 13:00
+TX 📥 $160 of WETH Supply by 0xa397
+TX 🐳📥 $1,200 of WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 13:13
+TX 📥 $40 of WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 13:24
+TX 📥 $2 of WETH Supply by 0xa397
+TX 📥 $690 of WETH Supply by 0xa397
+TX 📈 $100 of cbETH SupplyCollateral by 0xcF63
+TX 📤 $80 of WETH Borrow by 0xcF63
+TX 🐳📥 $2,000 of WETH Supply by 0xa397
+TX 📈 $215 of cbETH SupplyCollateral by 0xcF63
+TX 📤 $160 of WETH Borrow by 0xcF63
+Market Monitor
+机器人
+ — 2023/01/24 13:56
+TX 📈 $100 of cbETH SupplyCollateral by 0x74a0
+TX 📥 790 WETH Supply by 0xa397
+TX 📈 112 WETH worth of cbETH SupplyCollateral by 0x74a0
+TX 📤 188 WETH Borrow by 0x74a0
+TX 📈 4 WETH worth of wstETH SupplyCollateral by 0xC767
+TX 📤 170 WETH Borrow by 0x74a0
+TX 📈 170 WETH worth of cbETH SupplyCollateral by 0x74a0
+TX 📉 4 WETH worth of wstETH WithdrawCollateral by 0xC767
+TX 📤 150 WETH Borrow by 0x74a0
+TX 📈 150 WETH worth of cbETH SupplyCollateral by 0x74a0
+TX 📈 4 WETH worth of wstETH SupplyCollateral by 0x48d2
+TX 📤 3 WETH Borrow by 0x48d2
+TX 📈 3 WETH worth of wstETH SupplyCollateral by 0x48d2
+Market Monitor
+机器人
+ — 2023/01/24 14:34
+TX 📤 135 WETH Borrow by 0x74a0
+TX 📈 135 WETH worth of cbETH SupplyCollateral by 0x74a0
+Market Monitor
+机器人
+ — 2023/01/24 14:52
+TX 📈 19 WETH worth of wstETH SupplyCollateral by 0xCDB2
+TX 📤 125 WETH Borrow by 0x74a0
+TX 📈 125 WETH worth of cbETH SupplyCollateral by 0x74a0
+Market Monitor
+机器人
+ — 2023/01/24 15:05
+TX 📈 124 WETH worth of wstETH SupplyCollateral by 0xCDB2
+TX 📤 125 WETH Borrow by 0xCDB2
+Market Monitor
+机器人
+ — 2023/01/24 15:14
+TX 📥 750 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 17:34
+TX 🐳📈 5,039 WETH worth of cbETH SupplyCollateral by 0xccFa
+TX 📥 3 WETH Supply by 0xa397
+TX 📈 19 WETH worth of wstETH SupplyCollateral by 0x94DD
+TX 🐳📤 4,250 WETH Borrow by 0xccFa
+Market Monitor
+机器人
+ — 2023/01/24 17:46
+TX 📈 31 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 28 WETH Borrow by 0xEC9E
+TX 📈 28 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📉 19 WETH worth of wstETH WithdrawCollateral by 0x94DD
+TX 📤 26 WETH Borrow by 0xEC9E
+TX 📈 26 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 23 WETH Borrow by 0xEC9E
+TX 📈 23 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 21 WETH Borrow by 0xEC9E
+TX 📈 21 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 19 WETH Borrow by 0xEC9E
+TX 📈 19 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 17 WETH Borrow by 0xEC9E
+TX 📈 17 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 15 WETH Borrow by 0xEC9E
+TX 🐳📤 2,000 WETH Withdraw by 0xDb29
+TX 📈 500 WETH worth of cbETH SupplyCollateral by 0xccFa
+TX 📤 200 WETH Borrow by 0xccFa
+TX 📈 15 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 🐳📥 1,999 WETH Supply by 0xa397
+TX 📤 14 WETH Borrow by 0xEC9E
+TX 📥 750 WETH Supply by 0xa397
+TX 📈 14 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 12 WETH Borrow by 0xEC9E
+TX 📈 12 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 11 WETH Borrow by 0xEC9E
+TX 📥 25 WETH Supply by 0xa397
+TX 📈 11 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 📤 10 WETH Borrow by 0xEC9E
+TX 🐳📈 5,522 WETH worth of wstETH SupplyCollateral by 0x10D8
+TX 📈 10 WETH worth of cbETH SupplyCollateral by 0xEC9E
+TX 🐳📤 2,700 WETH Borrow by 0x10D8
+TX 📈 60 WETH worth of cbETH SupplyCollateral by 0x61C0
+TX 🐳📥 2,708 WETH Supply by 0xa397
+TX 📤 600 WETH Withdraw by 0x66B8
+TX 📤 50 WETH Borrow by 0x61C0
+Market Monitor
+机器人
+ — 2023/01/24 18:56
+TX 📥 2 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 19:05
+TX 🐳📈 1,290 WETH worth of wstETH SupplyCollateral by 0x1F5f
+TX 🐳📤 1,000 WETH Borrow by 0x1F5f
+TX 📈 4 WETH worth of wstETH SupplyCollateral by 0xe01d
+TX 🐳📥 1,000 WETH Supply by 0xa397
+TX 🐳📉 1,290 WETH worth of wstETH WithdrawCollateral by 0x1F5f
+Market Monitor
+机器人
+ — 2023/01/24 20:23
+TX 📤 760 WETH Withdraw by 0x66B8
+Market Monitor
+机器人
+ — 2023/01/24 22:07
+TX 📥 100 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 2023/01/24 23:41
+TX 📥 3 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天09:03
+TX 📥 3 WETH Supply by 0xa397
+TX 📤 3 WETH Withdraw by 0x5448
+Market Monitor
+机器人
+ — 昨天09:38
+TX 📥 105 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天10:55
+TX 📥 53 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天11:06
+TX 📥 75 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天12:21
+TX 📥 75 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天13:17
+TX 📥 100 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天13:26
+TX 🐳📥 6,980 WETH Supply by 0xa397
+TX 📥 182 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 昨天17:09
+TX 📥 3 WETH Supply by 0xa397
+TX 📤 400 WETH Borrow by 0xccFa
+TX 📤 3 WETH Withdraw by 0x50b5
+Market Monitor
+机器人
+ — 昨天18:02
+TX 📥 365 WETH Supply by 0xa397
+Market Monitor
+机器人
+ — 今天00:18
+TX 📤 2 WETH Withdraw by 0xe01d
+Market Monitor
+机器人
+ — 今天00:47
+TX 📥 5 WETH Supply by 0xa397
+TX 📤 5 WETH Withdraw by 0xe442
+Market Monitor
+机器人
+ — 今天03:06
+TX 📈 299 WETH worth of wstETH SupplyCollateral by 0xf0f5
+TX 📤 20 WETH Borrow by 0xf0f5
+Market Monitor
+机器人
+ — 今天03:25
+TX 📈 199 WETH worth of wstETH SupplyCollateral by 0xf0f5
+Market Monitor
+机器人
+ — 今天04:11
+TX 📥 12 WETH Supply by 0xa397
+TX 📤 12 WETH Withdraw by 0xA535
+Market Monitor
+机器人
+ — 今天05:12
+TX 📈 46 WETH worth of wstETH SupplyCollateral by 0x3D5F
+TX 📤 10 WETH Borrow by 0x3D5F
+Market Monitor
+机器人
+ — 今天08:24
+TX 📤 690 WETH Withdraw by 0x5A80
